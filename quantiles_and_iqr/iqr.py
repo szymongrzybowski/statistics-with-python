@@ -1,6 +1,5 @@
 from typing import List
-from quantiles import list_of_values
-from quantile import quantile
+from quantiles import quantile, list_of_values
 
 def interquartile_range(xs: List[float]) -> float:
     return quantile(xs, 0.75) - quantile(xs, 0.25)
