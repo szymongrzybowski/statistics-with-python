@@ -1,5 +1,5 @@
 from typing import List
-from scratch.linear_algebra import sum_of_squares
+from other_functions.linear_algebra import sum_of_squares
 import numpy as np
 
 num_friends = [100, 49, 41, 40, 25]
