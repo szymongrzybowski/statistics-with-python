@@ -12,8 +12,8 @@ Standard deviation is the square root of the variance.
 FORMULAS
 Depending on the type of data -- statistical population or sample -- separate formulas are used to calculate variance.
 
-1. statistical sample: s^2 = Σ(x_i - x_bar)^2 / n - 1 
-2. statistical population: σ^2 = Σ(x_i - mi_bar)^2 / N
+a) statistical sample: s^2 = Σ(x_i - x_bar)^2 / n - 1 
+b) statistical population: σ^2 = Σ(x_i - mi_bar)^2 / N
 
 s^2 - sample variance
 σ^2 - population variance
