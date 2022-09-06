@@ -10,7 +10,7 @@ def variance(xs: List[float]) -> float:
 
     n = len(xs)
     deviations = de_mean(xs)
-    return sum_of_squares(deviations) / (n-1)
+    return sum_of_squares(deviations) / (n - 1)
 
 print(variance(num_friends))
 
