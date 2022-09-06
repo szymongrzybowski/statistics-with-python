@@ -6,7 +6,7 @@ import numpy as np
 num_friends = [100, 49, 41, 40, 25]
 
 def variance(xs: List[float]) -> float:
-    assert len(xs) >= 2, "wariancja wymaga co najmniej dwóch elementów"
+    assert len(xs) >= 2, "variance requires at least two elements of the set"
 
     n = len(xs)
     deviations = de_mean(xs)
