@@ -17,7 +17,7 @@ print(variance(num_friends))
 variance_np = np.var(num_friends)
 print(variance_np)
 
-def variance_np2(xs: List[float]) -> List[float]:
+def variance_np2(xs: List[float]) -> float:
     return np.var(xs)
 
 print(variance_np2(num_friends))
