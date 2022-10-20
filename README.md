@@ -5,6 +5,6 @@ The code consists of two parts: the first is functions written using Python itse
 
 The second part contains codes that use the Numpy library.
 
-The codes for the first part are borrowed from the book Data Science from Scratch by Joel Grus.
+The codes for the first part are borrowed from the book "Data Science from Scratch" by Joel Grus.
 
 Python version: 3.8.1
